@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[SysAdminZ]]></title>
+  <link href="http://sysadminz.net/atom.xml" rel="self"/>
+  <link href="http://sysadminz.net/"/>
+  <updated>2015-05-16T23:43:02+04:30</updated>
+  <id>http://sysadminz.net/</id>
+  <author>
+    <name><![CDATA[Arash Shams]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
